@@ -128,7 +128,7 @@ margin-top: 80px;
 }
 .count-after::after{
     content: '';
-    width: 100%;
+    width: 99%;
     height: 0px;
     border: 1px solid #d3985b;
     position: absolute;
